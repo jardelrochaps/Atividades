@@ -1,0 +1,6 @@
+num1 = input('Digite o 1° valor: ')
+num2 = input('Digite o 2° valor: ')
+num3 = input('Digite o 3° valor: ')
+num4 = input('Digite o 4° valor: ')
+resultado = int(num1) + int(num2) + int(num3) + int(num4)
+print('Sua média é: ', resultado / 4)
